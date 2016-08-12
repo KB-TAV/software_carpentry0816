@@ -2,8 +2,14 @@ launch: we're going to mars?
 
 in route: not dead yet.
 
-landed 0101: still not dead.
+0101: landed. still not dead.
 
-0102 hey I found a red rock. 
+0102: hey I found a red rock. 
 
-0103 what
+0103: wait, they're all red. 
+
+0104: found a guy.
+
+0105: name's Matt.
+
+0106: super excited about potatoes. 
