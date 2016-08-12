@@ -1,7 +1,9 @@
-we're going to mars?
+launch: we're going to mars?
 
-not dead yet.
+in route: not dead yet.
 
-still not dead.
+landed 0101: still not dead.
 
-hey I found a red rock. 
+0102 hey I found a red rock. 
+
+0103 what
