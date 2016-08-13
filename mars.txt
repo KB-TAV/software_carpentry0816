@@ -1,15 +1,19 @@
-launch: we're going to mars?
+Expedition Log: Mars mission 10000001
 
-in route: not dead yet.
+-0001 launch: we're going to mars? I thought we were going to Minneapolis…
 
-0101: landed. still not dead.
+0100 in route: not dead yet. NASA, your ice cream is weird and crunchy.
+
+0101: landed. little bruised. still not dead.
 
 0102: hey I found a red rock. 
 
 0103: wait, they're all red. 
 
-0104: found a guy.
+0104: met a guy.
 
 0105: name's Matt.
 
 0106: super excited about potatoes. 
+
+0107: working on the ice cream problem next. 
